@@ -6,7 +6,7 @@ import router from './router'
 import firebase from "firebase"
 
 var firebaseConfig = {
-    apiKey: "AIzaSyCL5BjhYNdvdnM0ptO7xITVdPMXEngco_A",
+    apiKey: "[API_KEY]",
     authDomain: "maps-f9f5c.firebaseapp.com",
     projectId: "maps-f9f5c",
     storageBucket: "maps-f9f5c.appspot.com",
