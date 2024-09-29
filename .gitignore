@@ -18,7 +18,7 @@ coverage
 /cypress/videos/
 /cypress/screenshots/
 /index.html
-/main.js
+/src/views/main.js
 
 # Editor directories and files
 .vscode/*
